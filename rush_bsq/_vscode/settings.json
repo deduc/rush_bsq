@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "handle_map_files.h": "c",
+        "stdio.h": "c"
+    }
+}
